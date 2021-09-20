@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * 
  */
-public class Utilisateur {
+public class Utilisateur{
 
     /**
      * Default constructor

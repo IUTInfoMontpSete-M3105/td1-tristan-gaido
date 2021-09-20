@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * 
  */
-public class Enseignant {
+public class Enseignant extends Utilisateur{
 
     /**
      * Default constructor
